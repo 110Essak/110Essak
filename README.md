@@ -22,30 +22,30 @@ I’m always eager to learn in collaborative environments, improve how applicati
 
 ## 💻 Tech Stack
 
-**Frontend:**  
+**Frontend**  
 HTML, CSS, JavaScript, React.js, React Hook Form, Tailwind CSS, SvelteKit  
 
-**Programming & Data:**  
+**Programming & Data**  
 C++, Python, NumPy, Pandas, Matplotlib  
 
-**AI / ML Exposure:**  
+**AI / ML Exposure**  
 TensorFlow, PyTorch, scikit-learn, MLflow  
 
-**Databases & Cloud:**  
+**Databases & Cloud**  
 MySQL, Amazon DynamoDB, AWS  
 
-**Tools & Platforms:**  
+**Tools & Platforms**  
 Git, GitHub, GitHub Actions, Postman, Netlify, Vercel, Power BI, Canva  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=110Essak&show_icons=true&theme=onedark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=110Essak&show_icons=true&theme=onedark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=110Essak&theme=onedark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=110Essak&theme=onedark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=110Essak&layout=compact&theme=onedark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=110Essak&layout=compact&theme=onedark)
 
 ---
 
