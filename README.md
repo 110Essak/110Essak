@@ -1,13 +1,13 @@
 # 💫 About Me
 
 Hello 👋  
-I’m a Computer Engineering undergraduate with a strong interest in frontend development, focused on building responsive and user-friendly interfaces using React.js. I enjoy working on projects that involve data, AI-driven features, and real-world problem-solving, and I like understanding how systems function beyond just the UI layer.
+I’m a Computer Engineering undergraduate with a strong interest in frontend development, focused on building responsive and user-friendly interfaces using React.js. I enjoy working on projects that involve data, AI-driven features, and real-world problem-solving, and I like understanding how systems behave beyond just the UI.
 
-I actively participate in hackathons, internships, and research-oriented projects, which has given me exposure to Gen-AI use cases, cloud deployments, and foundational security considerations in modern applications.
+I actively participate in hackathons, internships, and research-oriented projects, which has helped me gain exposure to Gen-AI use cases, cloud deployments, and foundational security considerations in modern applications.
 
 I’m always eager to learn in collaborative environments, improve how applications scale in real-world scenarios, and build software that is clean, reliable, and mindful of performance and security.
 
-⚡ **Fun fact:** I enjoy working independently but value collaboration when it brings new perspectives.
+⚡ **Fun fact:** I enjoy working independently but value collaboration when it adds perspective.
 
 ---
 
@@ -22,20 +22,19 @@ I’m always eager to learn in collaborative environments, improve how applicati
 
 ## 💻 Tech Stack
 
-**Frontend**  
-HTML, CSS, JavaScript, React.js, React Hook Form, Tailwind CSS, SvelteKit  
-
-**Programming & Data**  
-C++, Python, NumPy, Pandas, Matplotlib  
-
-**AI / ML Exposure**  
-TensorFlow, PyTorch, scikit-learn, MLflow  
-
-**Databases & Cloud**  
-MySQL, Amazon DynamoDB, AWS  
-
-**Tools & Platforms**  
-Git, GitHub, GitHub Actions, Postman, Netlify, Vercel, Power BI, Canva  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 ---
 
@@ -49,9 +48,9 @@ Git, GitHub, GitHub Actions, Postman, Netlify, Vercel, Power BI, Canva
 
 ---
 
-### ✍️ Quote I Like
+### ✍️ Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
