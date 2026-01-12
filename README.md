@@ -43,7 +43,7 @@ Git, GitHub, GitHub Actions, Postman, Netlify, Vercel, Power BI, Canva
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=110Essak&show_icons=true&theme=onedark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=110Essak&theme=onedark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=110Essak&theme=onedark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=110Essak&layout=compact&theme=onedark)
 
