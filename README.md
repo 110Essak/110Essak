@@ -50,7 +50,7 @@ I’m always eager to learn in collaborative environments, improve how applicati
 
 ### ✍️ Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized_dark)
 
 ---
 
